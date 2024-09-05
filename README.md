@@ -50,7 +50,7 @@ git clone https://github.com/tu_usuario/tu_repositorio.git
 cd tu_repositorio
 ```
 
-    Ademas, recuerda colocar tus credenciales
+    ¡Ademas, recuerda colocar tus credenciales!
 
 ## **Uso del Bot**
 
