@@ -30,21 +30,25 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas y bib
 
    ```sh
    pip install selenium python-telegram-bot apscheduler pyautogui
+   ```
 
 Estas bibliotecas son esenciales para el funcionamiento del bot:
 
-**Selenium:**  Interactúa con navegadores web de manera automatizada.
-**python-telegram-bot:** Interfaz para interactuar con la API de Telegram.
-**APSscheduler:** Para programar tareas periódicas en el bot.
-**pyautogui:** Para automatizar la interfaz gráfica (si es necesario).
+- **Selenium:**  Interactúa con navegadores web de manera automatizada.
+- **python-telegram-bot:** Interfaz para interactuar con la API de Telegram.
+- **APSscheduler:** Para programar tareas periódicas en el bot.
+- **pyautogui:** Para automatizar la interfaz gráfica (si es necesario).
 
 ### **5. Cuenta de Telegram Bot**
 Necesitas crear un bot en Telegram y obtener un token para interactuar con la API de Telegram.
 Puedes crear tu bot usando BotFather en Telegram. Sigue esta guía (https://origendata.com/2023/05/05/como-crear-un-bot-en-telegram/) para obtener tu token.
 
-### **6. Clonar el Repositorio**
-    git clone https://github.com/tu_usuario/tu_repositorio.git
-    cd tu_repositorio
+### **6. Clonar el Repositorio:**
+
+```sh
+git clone https://github.com/tu_usuario/tu_repositorio.git
+cd tu_repositorio
+```
 
     Ademas, recuerda colocar tus credenciales
 
@@ -60,6 +64,7 @@ Para iniciar el bot, sigue estos pasos:
 
    ```sh
    python bot.py
+   ```
 
 ### **2. Comandos Disponibles**
 
